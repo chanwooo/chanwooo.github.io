@@ -4,7 +4,7 @@
 permalink: none
 #relative_permalinks: true
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 paginate: 5
 paginate_path: "page:num"
 
@@ -22,12 +22,15 @@ author:
   email:             chanwookim@me.com
 
 defaults:
-  scope:
-    path: ""
-    type: "posts"
-  values:
-    layout: "post"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
 
 google-analytics:
   id: "UA-130798210-1"
 
+disqus:
+  shortname: "chanwooo"

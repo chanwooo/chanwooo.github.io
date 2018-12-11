@@ -22,5 +22,8 @@ layout: default
       </li>
     {% endfor %}
   </ul>
-  댓글을 추가해야해용
+  {%- if site.disqus.shortname -%}
+    {%- include disqus.html -%}
+  {%- endif -%}
 </div>
+
