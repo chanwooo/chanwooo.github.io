@@ -4,7 +4,7 @@
  <title>찬우의 이것저것</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-12-11T11:05:46+09:00</updated>
+ <updated>2018-12-11T11:43:25+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Chanwoo Kim</name>
@@ -13,10 +13,26 @@
 
  
  <entry>
+   <title>좌충우돌 Jekyll 구축기와 Todo</title>
+   <link href="http://localhost:4000/dev/jekyll%EA%B5%AC%EC%B6%95%EA%B8%B0.html"/>
+   <updated>2018-12-11T11:33:00+09:00</updated>
+   <id>http://localhost:4000/dev/jekyll구축기</id>
+   <content type="html">&lt;p&gt;유행은 돌고 도는 것이랬던가 남들 다 하는 SNS를 거쳐 다시 블로그로 돌아오게 되다니..&lt;/p&gt;
+
+&lt;p&gt;삽질은 자꾸 하게되지만 인간은 똑같은 실수를 반복하게 된다고 했던가 아무래도 삽질을 기록해두는게 좋을것같아서 블로그를 시작해야겠다는 마음을 먹게 되었다.&lt;/p&gt;
+
+&lt;p&gt;컴퓨터 관련내용이 주가 될텐데 이왕이면 요새 유행한다는 지킬을 써봐야겠다는 생각을 했고 에이 뭐 얼마나 어렵겠어 좀 귀찮기야 하겠지하고 덤벼들었다.&lt;/p&gt;
+
+&lt;p&gt;첫글이니 가벼울거라 생각하고 덤벼든 지킬 구축기로 시작해보려 한다.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
    <title>첫번째 글</title>
-   <link href="http://localhost:4000/jekyll/update/2018/12/09/test-%EA%B2%8C%EC%8B%9C%EB%AC%BC.html"/>
+   <link href="http://localhost:4000/dev/test-%EA%B2%8C%EC%8B%9C%EB%AC%BC.html"/>
    <updated>2018-12-09T16:53:11+09:00</updated>
-   <id>http://localhost:4000/jekyll/update/2018/12/09/test-게시물</id>
+   <id>http://localhost:4000/dev/test-게시물</id>
    <content type="html">&lt;p&gt;안녕 내이름은 찬우
 테스트글&lt;/p&gt;
 &lt;h1 id=&quot;하이&quot;&gt;하이&lt;/h1&gt;
