@@ -28,3 +28,6 @@ defaults:
   values:
     layout: "post"
 
+google-analytics:
+  id: "UA-130798210-1"
+
