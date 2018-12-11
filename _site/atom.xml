@@ -4,7 +4,7 @@
  <title>찬우의 이것저것</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-12-11T16:14:16+09:00</updated>
+ <updated>2018-12-11T16:35:12+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Chanwoo Kim</name>
@@ -100,10 +100,10 @@
 하지만 아직 기본적으로 있어야할 기능들이 없는것들이 많다.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;댓글 (Disqus)&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;댓글 (Disqus)&lt;/del&gt; 적용&lt;/li&gt;
   &lt;li&gt;게시물 카테고리(개발 이외에 자동차,오토바이 관련글도 포스팅할 예정)&lt;/li&gt;
   &lt;li&gt;태그 기능&lt;/li&gt;
-  &lt;li&gt;Google Analytics(방문자 추적, 통계)&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Google Analytics(방문자 추적, 통계)&lt;/del&gt; 적용&lt;/li&gt;
   &lt;li&gt;SEO(검색엔진 최적화)&lt;/li&gt;
   &lt;li&gt;테마 다듬기 (사이드바 커스터마이징, 폰트 등등)&lt;/li&gt;
 &lt;/ul&gt;
