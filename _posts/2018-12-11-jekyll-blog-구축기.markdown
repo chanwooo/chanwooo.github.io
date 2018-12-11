@@ -1,5 +1,5 @@
 ---
-title:  "좌충우돌 Jekyll 구축기와 Todo"
+title:  "좌충우돌 Jekyll blog구축기와 Todo"
 date:   2018-12-11 11:33:00 +0900
 categories: Dev
 ---
