@@ -21,3 +21,10 @@ author:
   url:               https://chanwookim.me
   email:             chanwookim@me.com
 
+defaults:
+  scope:
+    path: ""
+    type: "posts"
+  values:
+    layout: "post"
+

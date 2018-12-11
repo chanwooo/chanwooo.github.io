@@ -1,3 +1,12 @@
+# blog.chanwoookim.me
+
+찬우의 이것저것 블로그!
+
+jekyll에 Lanyon theme를 입혔다.
+
+아래는 Lanyon의 readme.md
+
+
 # Lanyon
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.

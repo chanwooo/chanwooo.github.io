@@ -11,7 +11,7 @@ title: About
 
 <p class="message">{{ site.description }}</p>
 
-제 블로그는 github page + jekyll기반에 Lanyon theme를 적용 하였습니다.
+제 블로그는 github page + jekyll기반에 Lanyon theme를 적용 하여 만들어졌습니다.
 
 Contact
 
