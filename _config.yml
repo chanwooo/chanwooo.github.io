@@ -8,6 +8,8 @@ plugins: [jekyll-paginate]
 paginate: 5
 paginate_path: "page:num"
 
+plugins: [jekyll-sitemap]
+
 # Setup
 title:               찬우의 이것저것
 tagline:             "Chanwoo's blog"
