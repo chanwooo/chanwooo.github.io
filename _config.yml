@@ -1,41 +1,25 @@
-# Welcome to Jekyll!
+# Permalinks
 #
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# Use of `relative_permalinks` ensures post links from the index work properly.
+#permalink:           pretty
+#relative_permalinks: true
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: 찬우의 이것저것
-email: chanwookim@me.com
-description: >- # this means to ignore newlines until "baseurl:"
-  차와 오토바이 바퀴달린것들을 좋아하는 개발자의 잡동사니들
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.chanwookim.me"
-# the base hostname & protocol for your site, e.g. http://example.com
-github_username:  chanwooo
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
 
-# Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+# Setup
+title:               찬우의 이것저것
+tagline:             "Chanwoo's blog"
+description:         '자동차와 오토바이를 좋아하는 개발자 이것저것을 기록합니다.'
+url:                 https://blog.chanwookim.me
+baseurl:             ''
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# About/contact
+author:
+  name:              Chanwoo Kim
+  url:               https://chanwookim.me
+  email:             chanwookim@me.com
+
+# Custom vars
+version:             1.0.0
