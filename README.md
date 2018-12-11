@@ -6,6 +6,8 @@ jekyll에 Lanyon theme를 입혔다.
 
 아래는 Lanyon의 readme.md
 
+<details><summary>README.md</summary>
+<p>
 
 # Lanyon
 
@@ -141,3 +143,9 @@ Lanyon has two branches, but only one is used for active development.
 Open sourced under the [MIT license](LICENSE.md).
 
 <3
+
+
+</p>
+</details>
+
+
