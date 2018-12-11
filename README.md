@@ -4,7 +4,7 @@
 
 jekyll에 Lanyon theme를 입혔다.
 
-아래는 Lanyon의 readme.md
+아래는 Lanyon의 README.md
 
 <details><summary>README.md</summary>
 <p>
