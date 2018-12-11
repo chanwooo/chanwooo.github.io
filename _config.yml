@@ -12,7 +12,7 @@ paginate_path: "page:num"
 title:               찬우의 이것저것
 tagline:             "Chanwoo's blog"
 description:         '자동차와 오토바이를 좋아하는 개발자 이것저것을 기록합니다.'
-url:                 https://blog.chanwookim.me
+url:                 'https://blog.chanwookim.me'
 baseurl:             ''
 
 # About/contact
