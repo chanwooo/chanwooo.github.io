@@ -39,9 +39,7 @@ SIZE =  5 * 5
 
 
 <details>
-	<summary>
-	소스코드
-	</summary>
+	<summary>소스코드</summary>
 
 ```python
 	SIZE = 5
