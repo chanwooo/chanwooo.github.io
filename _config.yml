@@ -34,3 +34,7 @@ google-analytics:
 
 disqus:
   shortname: "chanwooo"
+
+markdown: kramdown
+kramdown:
+  parse_block_html: true
