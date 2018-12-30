@@ -44,8 +44,6 @@ SIZE =  5 * 5
 ####loopAndList.py
 
 ```python
-
-
 SIZE = 5
 list = [[0]*SIZE for i in range(SIZE)]
 count=1;
@@ -65,8 +63,6 @@ for i in range(SIZE):
     for j in range(SIZE):
         print("%3d"%list[i][j],end='')
     print()
-
-
 ```
 
 </p>
