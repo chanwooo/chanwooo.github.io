@@ -46,22 +46,20 @@ SIZE =  5 * 5
 ```python
 SIZE = 5
 list = [[0]*SIZE for i in range(SIZE)]
-count=1;
-
+count = 1
 
 for i in range(SIZE):
     for j in range(SIZE):
-        if i%2==0:
-            list[i][j]=count
+        if i % 2 == 0:
+            list[i][j] = count
         else:
-            list[i][SIZE-1-j]=count
-        count+=1;
+            list[i][SIZE-1-j] = count
+        count += 1
 
-
-print("SIZE = ",SIZE,"*",SIZE)
+print("SIZE = ", SIZE, "*", SIZE)
 for i in range(SIZE):
     for j in range(SIZE):
-        print("%3d"%list[i][j],end='')
+        print("%3d" % list[i][j], end='')
     print()
 ```
 
