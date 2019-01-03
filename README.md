@@ -1,4 +1,4 @@
-# blog.chanwoookim.me
+# blog.chanwookim.me
 
 찬우의 이것저것 블로그!
 
@@ -6,7 +6,7 @@ jekyll에 Lanyon theme를 입혔다.
 
 아래는 Lanyon의 README.md
 
-<details><summary>README.md</summary>
+<details><summary>Lanyon-README.md</summary>
 <p>
 
 # Lanyon
