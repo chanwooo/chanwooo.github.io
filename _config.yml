@@ -38,3 +38,5 @@ disqus:
 markdown: kramdown
 kramdown:
   parse_block_html: true
+
+google_fonts: "Nanum+Gothic: 400,700"
