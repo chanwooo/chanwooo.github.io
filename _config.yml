@@ -39,4 +39,4 @@ markdown: kramdown
 kramdown:
   parse_block_html: true
 
-google_fonts: "Nanum+Gothic: 400,700"
+google_fonts: "Noto+Sans+KR: 100,300,700"
