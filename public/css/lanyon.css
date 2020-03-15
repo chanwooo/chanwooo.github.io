@@ -42,12 +42,19 @@ body {
 
 html {
   font-family: "Noto Sans KR", sans-serif;
+  font-weight: 300;
   /*font-family: "PT Serif", Georgia, "Times New Roman", serif;*/
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1 {
   /*font-family: "Noto Sans KR", Helvetica, Arial, sans-serif;*/
   font-weight: 300;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+h2, h3, h4, h5, h6 {
+  /*font-family: "Noto Sans KR", Helvetica, Arial, sans-serif;*/
+  font-weight: 400;
   color: #313131;
   letter-spacing: -.025rem;
 }
