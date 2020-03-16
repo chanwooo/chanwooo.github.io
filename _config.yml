@@ -40,4 +40,3 @@ kramdown:
   parse_block_html: true
   smart_quotes: ["apos", "apos", "quot", "quot"]
 
-google_fonts: "Noto+Sans+KR: 100,300,700"
