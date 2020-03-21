@@ -1,3 +1,12 @@
+[https://blog.chanwookim.me/linux/linux-CVE-2019-14287-sudo-권한-취약점](https://blog.chanwookim.me/linux/linux-CVE-2019-14287-sudo-권한-취약점)
+
+위 글의 실험을 위해 sudoers파일을 수정하다가.. 앗 뭔가 잘못돼었는지 sudo가 동작하지 않는다. sudoers파일을 수정해야하는데 sudo가 안된다니..
+
+----
+
+
+
+
 **/etc/sudoers** 파일을 잘못 저장하면 아주아주 곤란해진다
 
 sudo 를 통해 권한을 받았는데 그 권한을 관리하는 파일이기에 편집을 하다가 문제가 있는채로 저장을 하게되면 다시는 편집할 수 없게되는 불상사가 일어나기 때문이다.
