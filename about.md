@@ -17,6 +17,5 @@ Contact
 - [Mail](mailto:chanwookim@me.com) 
 - [Homepage](https://chanwookim.me) 
 - [Github](https://github.com/chanwooo) 
-- [LinkedIn](https://www.linkedin.com/in/chanwooo) 
 
 
