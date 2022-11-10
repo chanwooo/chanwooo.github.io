@@ -45,7 +45,7 @@ body {
 h1,
 h2,
 h3 {
-  color: #fff;
+  color: #222;
 }
 
 p,
@@ -81,13 +81,13 @@ html {
 h1 {
   /*font-family: "Noto Sans KR", Helvetica, Arial, sans-serif;*/
   font-weight: 300;
-  color: #313131;
+  /*color: #313131;*/
   letter-spacing: -.025rem;
 }
 h2, h3, h4, h5, h6 {
   /*font-family: "Noto Sans KR", Helvetica, Arial, sans-serif;*/
   font-weight: 400;
-  color: #313131;
+  /*color: #313131;*/
   letter-spacing: -.025rem;
 }
 
