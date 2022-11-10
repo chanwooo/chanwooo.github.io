@@ -34,36 +34,6 @@
  * Update the foundational and global aspects of the page.
  */
 
-/* for darkmode*/
-body {
-  background: #222222;
-  line-height: 1.6;
-  max-width: 600px;
-  margin: 0 auto;
-}
-
-h1,
-h2,
-h3 {
-  color: #222;
-}
-
-p,
-dl {
-  color: #dbdbdb;
-}
-
-a {
-  color: #41adff;
-  text-decoration: none;
-}
-
-code {
-  color: #ffbe85;
-  background: #161f27;
-  border-radius: 6px;
-  padding: 2.5px 5px;
-}
 
 
 /* Prevent scroll on narrow devices */
@@ -81,13 +51,13 @@ html {
 h1 {
   /*font-family: "Noto Sans KR", Helvetica, Arial, sans-serif;*/
   font-weight: 300;
-  /*color: #313131;*/
+  color: #313131;
   letter-spacing: -.025rem;
 }
 h2, h3, h4, h5, h6 {
   /*font-family: "Noto Sans KR", Helvetica, Arial, sans-serif;*/
   font-weight: 400;
-  /*color: #313131;*/
+  color: #313131;
   letter-spacing: -.025rem;
 }
 
@@ -604,4 +574,41 @@ a.pagination-item:hover {
 /* Only one tweak for a reverse layout */
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
+}
+
+
+
+/* for darkmode*/
+body {
+  background: #222222;
+  line-height: 1.6;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+h1,
+h2,
+h3 {
+  color: #222;
+}
+
+p,
+dl {
+  color: #dbdbdb;
+}
+
+a {
+  color: #41adff;
+  text-decoration: none;
+}
+
+code {
+  color: #ffbe85;
+  background: #161f27;
+  border-radius: 6px;
+  padding: 2.5px 5px;
+}
+
+sidebar-toggle {
+  background-color: #333333;
 }
