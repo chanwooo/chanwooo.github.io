@@ -599,6 +599,11 @@ p,
 dl {
   color: #ddd ;
 }
+.message {
+  background-color: #333;
+}
+
+
 
 a {
   color: #ddd ;
