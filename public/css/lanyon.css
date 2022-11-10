@@ -365,7 +365,7 @@ a.sidebar-nav-item:focus {
   color: #999;
 }
 .related-posts li a:hover {
-  color: #268bd2;
+  color: #555;
   text-decoration: none;
 }
 .related-posts li a:hover small {
