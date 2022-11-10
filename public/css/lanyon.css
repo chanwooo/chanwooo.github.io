@@ -599,8 +599,12 @@ dl {
 }
 
 a {
-  color: ##ddd ;
+  color: #ddd ;
   text-decoration: none;
+}
+
+strong {
+  color: #999;
 }
 
 code {
