@@ -594,11 +594,11 @@ h3 {
 
 p,
 dl {
-  color: #dbdbdb;
+  color: #ddd;
 }
 
 a {
-  color: #41adff;
+  color: ##ddd;
   text-decoration: none;
 }
 
@@ -611,4 +611,12 @@ code {
 
 sidebar-toggle {
   background-color: #333333;
+}
+
+.post-title {
+  color: #ddd;
+}
+
+.masthead-title a {
+  color: #ddd;
 }
