@@ -643,7 +643,11 @@ sidebar-toggle {
 }
 
 
-.comment-count
+.comment-count, #no-posts
 {
-  color:  #ddd;
+  color:  #ddd !important;
+}
+
+.textarea {
+  background-color: #555;
 }
