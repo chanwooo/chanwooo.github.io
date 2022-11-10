@@ -582,7 +582,7 @@ a.pagination-item:hover {
 
 /* for darkmode*/
 body {
-  color:  #ddd;
+  color:  #bbb;
   background: #222222 ;
   line-height: 1.6;
   max-width: 600px;
@@ -593,7 +593,7 @@ body {
 h1,
 h2,
 h3 {
-  color: #ddd ;
+  color: #eee ;
 }
 
 p,
