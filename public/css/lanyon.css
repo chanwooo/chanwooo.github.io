@@ -580,43 +580,45 @@ a.pagination-item:hover {
 
 /* for darkmode*/
 body {
-  background: #222222;
+  background: #222222 !important;
   line-height: 1.6;
   max-width: 600px;
   margin: 0 auto;
+
 }
 
 h1,
 h2,
 h3 {
-  color: #222;
+  color: #222 !important;
 }
 
 p,
 dl {
-  color: #ddd;
+  color: #ddd !important;
 }
 
 a {
-  color: ##ddd;
+  color: ##ddd !important;
   text-decoration: none;
 }
 
 code {
-  color: #ffbe85;
-  background: #161f27;
+  color: #ffbe85 !important;
+  background: #161f27 !important;
   border-radius: 6px;
   padding: 2.5px 5px;
 }
 
 sidebar-toggle {
-  background-color: #333333;
+  background-color: #333333 !important;
 }
 
 .post-title {
-  color: #ddd;
+  color: #ddd !important;
 }
 
 .masthead-title a {
-  color: #ddd;
+  color: #ddd !important;
 }
+
